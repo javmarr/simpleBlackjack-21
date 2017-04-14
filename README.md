@@ -21,9 +21,9 @@ The object of blackjack is to beat the dealer. To beat the dealer the player mus
 -------------
 
 # Screenshots
-![Start screen](./pic00.png "Start Screen")
+![Start screen](./pic00.JPG "Start Screen")
 
-![Gameplay](./pic01.png "Gameplay")
+![Gameplay](./pic01.JPG "Gameplay")
 
 # Source
 Some of the rules were derived from:
